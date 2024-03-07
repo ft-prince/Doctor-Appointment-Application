@@ -35,9 +35,9 @@ This is a full-stack web application built using the MERN stack (MongoDB, Expres
 2. Install dependencies for both frontend and backend:
 
    ```bash
-   cd frontend
+   cd client
    npm install
-   cd ../backend
+   cd ..
    npm install
    ```
 
@@ -56,14 +56,14 @@ This is a full-stack web application built using the MERN stack (MongoDB, Expres
    Start the backend server:
 
    ```bash
-   cd backend
+   
    npm start
    ```
 
    Start the frontend development server:
 
    ```bash
-   cd frontend
+   cd cleint
    npm start
    ```
      To start both at same time
